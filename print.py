@@ -1,0 +1,10 @@
+print("Hello\n World!")
+print("MM,dd,yyyy", sep="-")
+print("Welcome", end=" @123")
+print("\n")
+name = "John"
+print("Welcome ",{name})
+print("\n")
+print("Welcome "+name)
+print("Name is {}".format(name))
+print("Num1: {0}, Num2: {1}".format(5,10))
